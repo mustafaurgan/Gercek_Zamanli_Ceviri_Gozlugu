@@ -1,0 +1,6 @@
+----- ilk önce bu kodu yaz -> source sanal/bin/activate
+bunu yazınca (sanal)urgan@raspberrypi olacak
+sonra cd gozluk yaz
+sonra python3 k.py yaz kamera test et
+sonra ctrl c ile programı durdur
+sonra python3 t.py yaz ana programı çalıştır. bu kadar
